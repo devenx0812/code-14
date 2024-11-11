@@ -66,8 +66,8 @@ The access specifier used during inheritance determines the accessibility of bas
 
 # codes 1
 ```
-//garv nandwana
-//23070123167
+// Devansh Chachra
+//22070123039
 #include <iostream>
 #include <string>
 using namespace std;
@@ -98,8 +98,8 @@ int main()
 ```
 # Code 2
 ```
-//garv nandwana
-//23070123167
+//Devansh Chachra
+//22070123039
 #include <iostream>
 #include <string>
 using namespace std;
@@ -144,8 +144,8 @@ int main()
 # Code 3
 
 ```
-//garv nandwana
-//23070123167
+//devansh chachra
+//22070123039
 #include <iostream>
 #include <string>
 using namespace std;
@@ -185,8 +185,8 @@ int main() {
 ```
 # Code 4
 ```
-//garv nandwana
-//23070123167
+//devansh chachra
+//22070123039
 #include <iostream>
 #include <string>
 using namespace std;
